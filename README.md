@@ -8,7 +8,7 @@ This project is an interactive map visualization of earthquake data using [Leafl
 - **Tectonic Plates Data**: [Tectonic Plates GeoJSON](https://github.com/fraxen/tectonicplates)
 
 ## Project Preview
-
+[https://steve-yuan-8276.github.io/leaflet-challenge/](https://steve-yuan-8276.github.io/leaflet-challenge/)
 Click the link below to view the project preview.
 
 ## Project Overview
