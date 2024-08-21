@@ -9,6 +9,7 @@ This project is an interactive map visualization of earthquake data using [Leafl
 
 ## Project Preview
 [https://steve-yuan-8276.github.io/leaflet-challenge/](https://steve-yuan-8276.github.io/leaflet-challenge/)
+
 Click the link below to view the project preview.
 
 ## Project Overview
