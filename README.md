@@ -12,6 +12,33 @@ This project is an interactive map visualization of earthquake data using [Leafl
 
 Click the link below to view the project preview.
 
+## Repo Directory Structure
+
+```
+LEAFLET-CHALLENGE/
+│
+├── Images/
+│   ├── leaflet_map1.png
+│   ├── leaflet_map2.png
+│   └── leaflet_map3.png
+│
+├── static/
+│   ├── css/
+│   │   └── style.css
+│   ├── GeoJSON/
+│   │   ├── PB2002_boundaries.json
+│   │   ├── PB2002_orogens.json
+│   │   ├── PB2002_plates.json
+│   │   └── PB2002_steps.json
+│   └── js/
+│       └── logic.js
+│
+├── .gitignore
+├── index.html
+├── LICENSE
+└── README.md
+```
+
 ## Project Overview
 
 ### Part 1: Earthquake Data Visualization
